@@ -1,1 +1,34 @@
+Module – 1 
+What is IoT, Genesis of IoT, IoT and Digitization, IoT Impact, Convergence of IT and 
+IoT, IoT Challenges, IoT Network Architecture and Design, Drivers Behind New 
+Network Architectures, Comparing IoT Architectures, A Simplified IoT Architecture, 
+The Core IoT Functional Stack, IoT Data Management and Compute Stack. 
 
+Module – 2 
+Smart Objects: The “Things” in IoT, Sensors, Actuators, and Smart Objects, Sensor 
+Networks, Connecting Smart Objects, Communications Criteria, IoT Access 
+Technologies. 
+
+Module – 3 
+IP as the IoT Network Layer, The Business Case for IP, The need for Optimization, 
+Optimizing IP for IoT, Profiles and Compliances, Application Protocols for IoT, The 
+Transport Layer, IoT Application Transport Methods.
+
+Module – 4 
+Data and Analytics for IoT, An Introduction to Data Analytics for IoT, Machine 
+Learning, Big Data Analytics Tools and Technology, Edge Streaming Analytics, 
+Network Analytics, Securing IoT, A Brief History of OT Security, Common Challenges 
+in OT Security, How IT and OT Security Practices and Systems Vary, Formal Risk 
+Analysis Structures: OCTAVE and FAIR, The Phased Application of Security in an 
+Operational Environment 
+
+Module – 5 
+IoT Physical Devices and Endpoints - Arduino UNO: Introduction to Arduino, Arduino 
+UNO, Installing the Software, Fundamentals of Arduino Programming. IoT 
+Physical Devices and Endpoints - RaspberryPi: Introduction to RaspberryPi, About the 
+RaspberryPi Board: Hardware Layout, Operating Systems on RaspberryPi, Configuring 
+RaspberryPi, Programming RaspberryPi with Python, Wireless Temperature Monitoring 
+System Using Pi, DS18B20 Temperature Sensor, Connecting Raspberry Pi via SSH, 
+Accessing Temperature from DS18B20 sensors, Remote access to RaspberryPi, Smart 
+and Connected Cities, An IoT Strategy for Smarter Cities, Smart City IoT Architecture,
+Smart City Security Architecture, Smart City Use-Case Examples.
