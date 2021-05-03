@@ -1,1 +1,41 @@
+Module – 1 
+Introduction: When simulation is the appropriate tool and when it is not 
+appropriate, Advantages and disadvantages of Simulation; Areas of application, 
+Systems and system environment; Components of a system; Discrete and 
+continuous systems, Model of a system; Types of Models, Discrete-Event System 
+Simulation Simulation examples: Simulation of queuing systems. General 
+Principles, Simulation Software:Concepts in Discrete-Event Simulation. The 
+Event-Scheduling / Time-Advance Algorithm, Manual simulation Using Event 
+Scheduling 
 
+Module – 2 
+Statistical Models in Simulation :Review of terminology and concepts, Useful 
+statistical models,Discrete distributions. Continuous distributions,Poisson 
+process, Empirical distributions. 
+Queuing Models:Characteristics of queuing systems,Queuing notation,Long-run 
+measures of performance of queuing systems,Long-run measures of performance 
+of queuing systems cont…,Steady-state behavior of M/G/1 queue, Networks of 
+queues.
+
+Module – 3 
+Random-NumberGeneration:Properties of random numbers; Generation of 
+pseudo-random numbers, Techniques for generating random numbers,Tests for 
+Random Numbers, Random-Variate Generation: ,Inverse transform technique 
+Acceptance-Rejection technique. 
+
+Module – 4 
+Input Modeling: Data Collection; Identifying the distribution with data, 
+Parameter estimation, Goodness of Fit Tests, Fitting a non-stationary Poisson 
+process, Selecting input models without data, Multivariate and Time-Series input 
+models. 
+Estimation of Absolute Performance: Types of simulations with respect to 
+output analysis ,Stochastic nature of output data, Measures of performance and 
+their estimation, Contd..
+
+Module - 5
+Measures of performance and their estimation,Output analysis for terminating 
+simulations Continued..,Output analysis for steady-state simulations. 
+Verification, Calibration And Validation: Optimization: Model building, 
+verification and validation, Verification of simulation models, Verification of
+simulation models,Calibration and validation of models, Optimization via 
+Simulation.
